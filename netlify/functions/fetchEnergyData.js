@@ -41,7 +41,7 @@ exports.handler = async function (event, context) {
       statusCode: 200,
       headers: {
         "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*", // Make sure to change this once you have a domain
+        //'Access-Control-Allow-Origin': 'https://your-website-domain.com', // I don't have a domain yet
         "Access-Control-Allow-Methods": "GET",
       },
       body: JSON.stringify(data),
