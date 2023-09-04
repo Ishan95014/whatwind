@@ -2,7 +2,7 @@
 
 This project visualizes the current wind energy utilization in Europe. The visualization changes color based on the percentage of utilized capacity, ranging from deep red (low utilization) to deep green (high utilization).
 
-The point was to make this in a couple hours to settle a disagreement. It's an instant visualization of the actual live 
+The point was to make this in a couple hours to settle a disagreement. It's an instant visualization of the actual live production as a percentage of installed capacity.
 
 ## Project Structure
 
